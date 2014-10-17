@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kja:home|Door43 (kja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kja|d43-kja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kja/archive/master.zip|d43-kja.zip]]
+
+**Recent Changes**
+{{changes>ns = kja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kja|Ethnologue data]]
+
